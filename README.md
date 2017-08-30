@@ -9,4 +9,7 @@
 ###### 文件行数为2千万行，每个文件都是一行一个句子：
     22520376 giga-fren.release2.fixed.en
     22520376 giga-fren.release2.fixed.fr
-   
+    
+    
+##### https://github.com/tensorflow/nmt
+##### https://www.youyong.top/article/1159672382461
